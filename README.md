@@ -8,6 +8,6 @@ Libraries  used:
 ● requests
 ● selenium
 
-![Postman_POST_method](/images/Screenshot (6).png)
-![Postman_POST_method](/images/Screenshot (7).png)
+![Postman_POST_method](https://github.com/PPandey941/Coin-Scraper/blob/master/images/Screenshot%20(6).png)
+![Postman_POST_method](https://github.com/PPandey941/Coin-Scraper/blob/master/images/Screenshot%20(7).png)
 
