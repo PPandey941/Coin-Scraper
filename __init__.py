@@ -1,0 +1,2 @@
+def coinmarketcap():
+    return None
